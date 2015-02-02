@@ -1,0 +1,13 @@
+{
+  "name": "DNS-Cloud",
+  "version": "0.1.0",
+  "description": "Home DNS",
+  "main": "server.js",
+  "author": "Aravinth",
+  "dependencies": {
+    "request": "~2.36.0",
+    "express": "~4.4.4",
+    "body-parser": "~1.4.3",
+    "log4js": "~0.6.14"
+  }
+}

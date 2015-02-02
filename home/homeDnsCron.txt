@@ -1,0 +1,2 @@
+@reboot /usr/local/bin/node ~/dns/home/server.js &
+
